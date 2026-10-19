@@ -27,4 +27,4 @@ During acedemic breaks I use my free time to work as an intern. At Lasticks Aero
 * **CNC Machining & Tooling (Doosan PUMA SMX2600ST):** Exposure to multi-axis mill-turn operations, setup/fixturing procedures, tool selection, and maintaining work coordinate offsets with tool wear. 
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my highlighted projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
-More information about <a href="{{"/internship/" | relative_url }}">my internship is also available. 
+More information about <a href="{{"/internship/" | relative_url }}">my internship</a> is also available. 
