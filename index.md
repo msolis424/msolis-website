@@ -19,7 +19,7 @@ I enjoy modeling systems as differential equations using techniques learned from
 * **Mechatronics & Embedded Systems:** Microcontroller programming, hardware-in-the-loop actuation, and circuit integration.
 
 ### Field Work
-During acedemic breaks I use my free time to work as an intern. At Lasticks Aerospace I gained many valuable skills realted to what it takes to bring engineering designs into production. 
+During acedemic breaks I use my free time to work as an intern. At Lasticks Aerospace I gained many valuable skills related to what it takes to bring engineering designs into production. 
 * **General Dimensioning & Tolerancing (GD&T):** Engineering Drafting
 * **Coordinate Measuring Machine (CMM):** Programming experience with **PC-DMIS**. 
 * **Metrology**: Experience with Mitutoyo, Mahr, Hexagon, and Renishaw equipment. (Micrometers, Height Gauges, Software, etc.) 
