@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Your Name
 description              : Your Name - Projects and CV 
-baseurl                  : "MarkSolis" # Set this to your repo name 
+baseurl                  : "msolis-website" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
