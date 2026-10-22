@@ -6,7 +6,7 @@ permalink: /internship/
 # Internship Experience
 
 ### Lasticks Aerospace
-*Freshman Summer - Present (Returned during Academic Breaks)*
+*Freshman Summer - Present (Returned during Academic Breaks)* <br>
 I spent my breaks at Lasticks Aerospace. During these times I had many tasks, progressing from shop floor tooling and inventory mangement to metrology and automated CMM inspection operation and programming. 
 
 ---
@@ -23,11 +23,12 @@ My introduction to Lasticks was organizing the shop floor. Since I was new to th
 #### Metrology & Quality Inspection
 During my second year at Lasticks I worked with the inspection department. 
 
-* **Bench Work:** I helped checking part conformance to the engineering drawings. I learned how to use micrometers, calipers, the height gauge, the comparator, etc. <br>
-* **CMM Operation:** I ran programs that automated the process of checking the GD&T of parts. The CMM ran with PC-DMIS and USC Server. <br>
-* **CAD Modeling Practice:** I had access to NX and a lot of engineering drawings I could practice with. 
+* **Bench Inspection:** Performed dimensional verification against engineering drawings using micrometers. calipers, height gauges, and optical comparators. 
+* **CMM Operation:** Executed automated CMM inspection routines using **PC-DMIS** connected to USC Server to verify conformance to ASME Y14.5 GD&T standards. 
+* **CAD Modeling Practice:** Practiced developing models in **Siemens NX** using production drawings. 
 
 ---
-#### Automated Inspection
-My third year at Lasticks was majorly about PC-DMIS and the CMM. I already leared how to operate the CMM but now I started to learn how to edit and create programs. 
-* **Alignments:** Constraining the degrees of freedom of CAD models so the CMM knows where the part is in the physical space. 
+#### Automated CMM Inspection
+Focused on executing, modifying, and developing insepction routines in PC-DMIS. 
+* **Datum Alignments:** Programmed 3-2-1 and interative alignments to fully constrain the 6 degree of freedom between the machined part and 3D CAD models. 
+* **Routine Optimization & Creation:** Created and refined automated routines to verify geometric tolerances- such as true position, surface profile, and concentricity. 
